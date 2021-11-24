@@ -1,1 +1,4 @@
-Hey, im pretty new to C++/C# and I want to improve my skills by doing some tools..pretty useless stuff but it is helping me :p
+Hey, im develop c#/c++ applications and still learning this languages.
+Also skilled in Java.
+
+I develop pretty useless stuff just for fun lol
